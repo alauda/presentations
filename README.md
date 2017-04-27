@@ -7,4 +7,4 @@ Alauda presentations about tech/product.
 * ![2017.04.28 Terraform 介绍](2017/04/0428-terraform-intro.pdf)
 
 # License
-
+  CC BY-SA 3.0
